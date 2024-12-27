@@ -8,7 +8,8 @@ This Repo contains the baseline codes for Silicosis detection on Silicodata data
 .<br/>
 .<br/>
 .<br/>
-# DOI: https://doi.org/10.6084/m9.figshare.25383697.v13
+# DOI: 
+https://doi.org/10.6084/m9.figshare.25383697.v13
 
 # Bibtex: <br/>
 @article{Akhter2024,
