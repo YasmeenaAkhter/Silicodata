@@ -13,7 +13,6 @@ https://doi.org/10.7910/DVN/QH199J
 
 # Bibtex: <br/>
 @data{DVN/QH199J_2025,
-
 author = {Akhter, Yasmeena and Ranjan, Rishabh and Vatsa, Mayank and Singh, Richa and Chaudhury, Santanu and Anjali Agrawal and Shruti Aggarwal and Arjun Kalyanpur and Anurita Menon},
 publisher = {Harvard Dataverse},
 title = {{SilicoData: An Annotated Benchmark CXR Dataset for Silicosis Detection}},
