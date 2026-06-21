@@ -14,7 +14,7 @@ https://doi.org/10.7910/DVN/QH199J
 # Nature Scientific Data Paper
 Akhter, Y., Ranjan, R., Vatsa, M. et al. Silicodata: An Annotated Benchmark CXR Dataset for Silicosis Detection. Sci Data 12, 1559 (2025). https://doi.org/10.1038/s41597-025-05595-4
 
-# Bibtex: <br/>
+# Harvard Dataverse Data Repository: <br/>
 @data{DVN/QH199J_2025,
 author = {Akhter, Yasmeena and Ranjan, Rishabh and Vatsa, Mayank and Singh, Richa and Chaudhury, Santanu and Anjali Agrawal and Shruti Aggarwal and Arjun Kalyanpur and Anurita Menon},
 publisher = {Harvard Dataverse},
